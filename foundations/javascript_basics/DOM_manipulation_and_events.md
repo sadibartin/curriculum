@@ -40,7 +40,7 @@ When working with the DOM, you use "selectors" to target the nodes you want to w
 
 You can also use relational selectors \(i.e. `firstElementChild` or `lastElementChild` etc.\) with special properties owned by the nodes.
 
-~~~javascript
+~~~javascriptm
 const container = document.querySelector('#container');
 // selects the #container div (don't worry about the syntax, we'll get there)
 
